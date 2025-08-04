@@ -1,5 +1,7 @@
 ## Hi 👋 I'm Keir Parnitzke
 
+
+
 I’m a 3rd-year Computer Science major with a Mathematics minor at the University of British Columbia.  
 I’m  currently passionate about **Linux, cybersecurity, and Math. 
 
@@ -28,4 +30,16 @@ I’m  currently passionate about **Linux, cybersecurity, and Math.
 
 **Languages:** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 **Frameworks & Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-**Learning:** Cybersecurity · Machine Learning · 
+
+
+
+## 📚 **Currently Learning**  
+
+
+
+- 🐧 **Linux Systems & Administration** – understanding the inner workings of Linux distributions  
+- 💻 **Bash Scripting** – automating tasks, writing shell scripts, and mastering command-line tools  
+- 🔍 **Privilege Escalation Techniques** – practicing on **OverTheWire** wargames & capture-the-flag challenges  
+- 🗂️ **File Permissions & Processes** – exploring `chmod`, `chown`, and how processes interact in Linux  
+- ⚙️ **System Tools & Utilities** – deep diving into `awk`, `sed`, `grep`, `find`, `xargs`, and cron jobs  
+- 🌐 **Networking Basics** – learning about SSH, firewalls, and how servers communicate 
