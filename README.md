@@ -4,6 +4,9 @@ I’m a 3rd-year Computer Science major with a Mathematics minor at the Universi
 I’m  currently passionate about **Linux, cybersecurity, and Math. 
 
 
+
+
+
 🚀 **What I’m Up To**  
 🔐 Studying for the **CompTIA Security+** exam  
 📜 Practicing **Linux privilege escalation** and OverTheWire wargames  
@@ -11,7 +14,8 @@ I’m  currently passionate about **Linux, cybersecurity, and Math.
 
 
 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/keir-parnitzke-2640abb5/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/keir-parnitzke-2640abb5/)])
+
 
 
 
