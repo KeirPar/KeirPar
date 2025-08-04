@@ -21,7 +21,7 @@ I’m  currently passionate about **Linux, cybersecurity, and Math.
 ## 🌐 Connect with me:
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keir-parnitzke-2640abb5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keir-parnitzke-2640abb5/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keirparnitzke/)
 
 
 
