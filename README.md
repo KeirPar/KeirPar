@@ -11,7 +11,8 @@ I’m  currently passionate about **Linux, cybersecurity, and Math.
 
 
 🌐 Connect with me:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/keir-parnitzke-2640abb5/))
+
 
 
 💻 **Tech Stack**  
