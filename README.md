@@ -10,6 +10,10 @@ I’m  currently passionate about **Linux, cybersecurity, and Math.
 💻 Working on **Java Spring Boot & Kotlin** projects for my portfolio 
 
 
+🌐 Connect with me:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 💻 **Tech Stack**  
 **Languages:** Python · Java · SQL · Kotlin (minimal)· MIPS Assembly  
 **Frameworks & Tools:** Spring Boot · ReactJS · PostgreSQL · Docker · Git · AWS  
