@@ -1,45 +1,32 @@
 ## Hi 👋 I'm Keir Parnitzke
+I'm a 3rd-year Computer Science major with a Mathematics minor at the University of British Columbia. Aspiring cybersecurity professional with a focus on Linux systems administration, security analysis, and mathematical applications in computing.
 
-
-
-I’m a 3rd-year Computer Science major with a Mathematics minor at the University of British Columbia.  
-I’m  currently passionate about **Linux, cybersecurity, and Math. 
-
-
-
-
-
-## 🚀 **What I’m Up To**  
-
-
-
-🔐 Studying for the **CompTIA Security+** exam  
-📜 Practicing **Linux privilege escalation** and OverTheWire wargames  
-💻 Working on **Java Spring Boot & Kotlin** projects for my portfolio 
-
-
-## 🌐 Connect with me:
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keir-parnitzke-2640abb5/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keirparnitzke/)
-
-
-
-
-## 💻 **Tech Stack**  
+## Technical Skills
 
 **Languages:** ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-**Frameworks & Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+**Frameworks & Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## Current Focus
 
-## 📚 **Currently Learning**  
+**CompTIA Security+** certification preparation  
+**Linux privilege escalation** techniques and OverTheWire wargames  
+**Java Spring Boot & Kotlin** application development for portfolio projects
 
+## Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keir-parnitzke-2640abb5/)
 
-- 🐧 **Linux Systems & Administration** – understanding the inner workings of Linux distributions  
-- 💻 **Bash Scripting** – automating tasks, writing shell scripts, and mastering command-line tools  
-- 🔍 **Privilege Escalation Techniques** – practicing on **OverTheWire** wargames & capture-the-flag challenges  
-- 🗂️ **File Permissions & Processes** – exploring `chmod`, `chown`, and how processes interact in Linux  
-- ⚙️ **System Tools & Utilities** – deep diving into `awk`, `sed`, `grep`, `find`, `xargs`, and cron jobs  
-- 🌐 **Networking Basics** – learning about SSH, firewalls, and how servers communicate 
+## Projects
+
+**OverTheWire Bandit Writeups** – Comprehensive documentation of Linux fundamentals and privilege escalation techniques  
+**Java Spring Boot Applications** – Full-stack web applications with PostgreSQL integration  
+**Bash Automation Scripts** – Custom tools for system administration and security analysis
+
+## Current Learning
+
+**Linux Systems & Administration** – Distribution internals, system architecture, and security hardening  
+**Bash Scripting & Automation** – Advanced shell scripting and command-line tool mastery  
+**Privilege Escalation Techniques** – Active practice with OverTheWire wargames and CTF challenges  
+**System Security Analysis** – File permissions, process management, and vulnerability assessment  
+**Network Security Fundamentals** – SSH protocols, firewall configuration, and secure communications
