@@ -9,9 +9,9 @@ I'm a 3rd-year Computer Science major with a Mathematics minor at the University
 
 ## Current Focus
 
-**CompTIA Security+** certification preparation  
-**Linux privilege escalation** techniques and OverTheWire wargames  
-**Java Spring Boot & Kotlin** application development for portfolio projects
+**CompTIA Security+** - Certification preparation  
+**Linux privilege escalation** - Techniques and OverTheWire wargames  
+**Machine Learning** - Machine learning approach to malware traffic classification (CIC-IDS2017 dataset) 
 
 ## Connect
 
