@@ -21,7 +21,7 @@ I'm a 3rd-year Computer Science major with a Mathematics minor at the University
 
 **OverTheWire Bandit Writeups** – Comprehensive documentation of Linux fundamentals and privilege escalation techniques 
 **Basic Vulnerability Scanner** - A Python-based port and vulnerability scanner using Nmap.
-** Malware-traffic-Classifier** - Built a machine learning model to classify network traffic as benign or potentially malicious using packet capture (PCAP) data.
+**Malware-traffic-Classifier** - Built a machine learning model to classify network traffic as benign or potentially malicious using packet capture (PCAP) data.
 **Java Spring Boot Applications** – Full-stack web applications with PostgreSQL integration  
 
 
