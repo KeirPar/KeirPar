@@ -1,5 +1,5 @@
 ## Hi 👋 I'm Keir Parnitzke
-I'm a 3rd-year Computer Science major with a Mathematics minor at the University of British Columbia. Aspiring cybersecurity professional with a focus on Linux systems administration, security analysis, and mathematical applications in computing.
+I'm a 3rd-year Computer Science major with a Mathematics minor at the University of British Columbia. Aspiring software professional with a focus on Java, Linux systems administration, security analysis, and mathematical applications in computing.
 
 ## Technical Skills
 
