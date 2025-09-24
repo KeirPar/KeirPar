@@ -11,7 +11,7 @@ I'm a 3rd-year Computer Science major with a Mathematics minor at the University
 
 **CompTIA Security+** - Certification preparation  
 **Linux privilege escalation** - Techniques and OverTheWire wargames  
-**Machine Learning** - Machine learning approach to malware traffic classification (CIC-IDS2017 dataset) 
+**Java Software Development** - Machine learning approach to malware traffic classification (CIC-IDS2017 dataset) 
 
 ## Connect
 
@@ -26,12 +26,3 @@ I'm a 3rd-year Computer Science major with a Mathematics minor at the University
 **Malware-traffic-Classifier** - Built a machine learning model to classify network traffic as benign or potentially malicious using packet capture (PCAP) data.
 
 **Java Spring Boot Applications** – Full-stack web applications with PostgreSQL integration  
-
-
-## Current Learning
-
-**Linux Systems & Administration** – Distribution internals, system architecture, and security hardening  
-**Bash Scripting & Automation** – Advanced shell scripting and command-line tool mastery  
-**Privilege Escalation Techniques** – Active practice with OverTheWire wargames and CTF challenges  
-**System Security Analysis** – File permissions, process management, and vulnerability assessment  
-**Network Security Fundamentals** – SSH protocols, firewall configuration, and secure communications
